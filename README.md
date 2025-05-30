@@ -1,3 +1,4 @@
+# XhuyZ fork the repo to learn the configuration from the owner :)))
 # Nixvim Dev-shell Environment
 
 This is a Nix flake configuration for Neovim built with the [Nixvim project](https://github.com/nix-community/nixvim)
